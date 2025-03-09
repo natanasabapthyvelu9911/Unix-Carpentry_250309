@@ -1,0 +1,5 @@
+$pwd   #Print work directory
+$ls    #listing the contents in the work directory
+&cd    #change work directory
+&.     #current directory
+&..    #parent directory
